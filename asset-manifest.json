@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/agency-portfolio/static/css/main.a16fecea.css",
+    "main.js": "/agency-portfolio/static/js/main.127dd599.js",
+    "static/js/787.4d03be0f.chunk.js": "/agency-portfolio/static/js/787.4d03be0f.chunk.js",
+    "static/media/1.png": "/agency-portfolio/static/media/1.267b33295e6d6dc24036.png",
+    "static/media/5.png": "/agency-portfolio/static/media/5.db84104dfb07faf0e111.png",
+    "static/media/7.png": "/agency-portfolio/static/media/7.5afb80cd65e64e6687a1.png",
+    "static/media/9.png": "/agency-portfolio/static/media/9.be102e5782e4338cc655.png",
+    "static/media/epilogue.extrabold.ttf": "/agency-portfolio/static/media/epilogue.extrabold.048d2df2a3a43f6558fb.ttf",
+    "static/media/epilogue.black.ttf": "/agency-portfolio/static/media/epilogue.black.e1c6de83c5b66d230d18.ttf",
+    "static/media/epilogue.semibold.ttf": "/agency-portfolio/static/media/epilogue.semibold.a4fe91f95ab609339c61.ttf",
+    "static/media/epilogue.bold.ttf": "/agency-portfolio/static/media/epilogue.bold.909f8f6d8f7c020bdfd8.ttf",
+    "static/media/4.png": "/agency-portfolio/static/media/4.d7df762dc39ff9280590.png",
+    "static/media/epilogue.medium.ttf": "/agency-portfolio/static/media/epilogue.medium.7620da4d5726cd8f01a9.ttf",
+    "static/media/epilogue.regular.ttf": "/agency-portfolio/static/media/epilogue.regular.b476328aaa74878d6ea8.ttf",
+    "static/media/epilogue.extralight.ttf": "/agency-portfolio/static/media/epilogue.extralight.2fb44d4159cdcbd08330.ttf",
+    "static/media/epilogue.light.ttf": "/agency-portfolio/static/media/epilogue.light.ff85f5727426b550400c.ttf",
+    "static/media/epilogue.thin.ttf": "/agency-portfolio/static/media/epilogue.thin.934f1fd73df065387e9a.ttf",
+    "static/media/2.png": "/agency-portfolio/static/media/2.8d1ee9765240c7d8c67e.png",
+    "static/media/3.png": "/agency-portfolio/static/media/3.65dabc72aabbfbec36bf.png",
+    "static/media/6.png": "/agency-portfolio/static/media/6.f136b14718f8e34ea6a7.png",
+    "static/media/8.png": "/agency-portfolio/static/media/8.4a67e9546cd7e9255e40.png",
+    "index.html": "/agency-portfolio/index.html",
+    "main.a16fecea.css.map": "/agency-portfolio/static/css/main.a16fecea.css.map",
+    "main.127dd599.js.map": "/agency-portfolio/static/js/main.127dd599.js.map",
+    "787.4d03be0f.chunk.js.map": "/agency-portfolio/static/js/787.4d03be0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a16fecea.css",
+    "static/js/main.127dd599.js"
+  ]
+}
